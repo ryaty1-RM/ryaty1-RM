@@ -30,4 +30,4 @@ Estudiante de Ingeniería en Sistemas de Información y Ciencias de la Computaci
 ## 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-yat-yat-b1416b356/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryaty1@miumg.edu.gt)
+[![Gmail](https://img.shields.io/badge/Gmail-Ramiro%20Yat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramiro5032@gmail.com)
